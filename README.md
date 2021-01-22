@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Enview
+- 🔭 I’m currently working in Globant
 - 🌱 Backend Engineer
 - 💬 Python Developer
 - 📫 Other cool tech i use: React, javascript,typescript,  docker, AWS, Django, Flask, Tornado
