@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working in Globant
+- 🔭 I’m currently living en México
 - 🌱 Backend Engineer
 - 💬 Python Developer
 - 📫 Other cool tech i use: React, javascript,typescript,  docker, AWS, Django, Flask, Tornado
